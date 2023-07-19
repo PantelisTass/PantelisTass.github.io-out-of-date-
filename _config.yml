@@ -83,15 +83,11 @@ author:
   name             : "Pantelis Tassopoulos"
   avatar           : "profile-short.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : >
-    9 Kenrdick Mews
-    South Kensington, London
+  location         : "9 Kenrdick Mews ... South Kensington, London"
   email            : "pade.tass@gmail.com"
   github           : "PantelisTass"
   linkedin         : "pantelis-tassopoulos-202535202/"
   orcid            : "https://orcid.org/0000-0003-4575-9451"
-  pinterest        :
-  soundcloud       :
   StackOverflow    : "https://stackoverflow.com/users/15501971/user15501971"
   Mathematics StackExchange: "https://math.stackexchange.com/users/454188/pantelis-t"
   twitter          : "@Panteli90319873"
