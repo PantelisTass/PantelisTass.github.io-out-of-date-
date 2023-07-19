@@ -89,7 +89,6 @@ author:
   linkedin         : "pantelis-tassopoulos-202535202/"
   orcid            : "https://orcid.org/0000-0003-4575-9451"
   StackOverflow    : "https://stackoverflow.com/users/15501971/user15501971"
-  Mathematics StackExchange: "https://math.stackexchange.com/users/454188/pantelis-t"
   twitter          : "@Panteli90319873"
 
 
@@ -167,17 +166,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
