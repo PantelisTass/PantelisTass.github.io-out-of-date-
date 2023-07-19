@@ -83,7 +83,7 @@ author:
   name             : "Pantelis Tassopoulos"
   avatar           : "profile-short.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : >
+  location         : |
     9 Kenrdick Mews, 
     South Kensington, London
   email            : "pade.tass@gmail.com"
