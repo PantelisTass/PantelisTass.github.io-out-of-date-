@@ -84,9 +84,8 @@ author:
   avatar           : "profile-short.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : |
-                    London,
-                    United Kingdom
-                    Your biography for the left-hand sidebar
+    London,
+    United Kingdom
   email            : "pade.tass@gmail.com"
   github           : "PantelisTass"
   linkedin         : "pantelis-tassopoulos-202535202/"
