@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pantelis Tassopoulos"
   avatar           : "profile-short.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I will be pursuing a PhD in Probability Theory, studying a notion of universality encompassing a large class of random growth processes in the plane, namely, KPZ universality, under the supervision of Dr Sourav Sarkar."
   location         : |
-    London,
+    Cambridge,
     United Kingdom
   email            : "pade.tass@gmail.com"
   github           : "PantelisTass"
