@@ -6,7 +6,7 @@ excerpt: 'In this paper, we test the effectiveness of predicting the behavior of
 date: 2021-10-10
 venue: 'Journal of Mathematical Finance'
 paperurl: 'https://www.scirp.org/pdf/jmf_2022021415091864.pdf'
-citation: 'Tassopoulos, Pantelis, and Yorgos Protonotarios. "Brownian Motion & the Stochastic Behavior of Stocks." Journal of Mathematical Finance 12.1 (2021): 138-149.'
+Hellocitation: 'Tassopoulos, Pantelis, and Yorgos Protonotarios. "Brownian Motion & the Stochastic Behavior of Stocks." Journal of Mathematical Finance 12.1 (2021): 138-149.'
 
 ---
 
