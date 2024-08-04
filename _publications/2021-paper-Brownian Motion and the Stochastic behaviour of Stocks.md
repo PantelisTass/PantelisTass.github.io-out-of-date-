@@ -11,4 +11,4 @@ citation: 'Tassopoulos, Pantelis, and Yorgos Protonotarios. "Brownian Motion & t
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/Brownian Motion and the Stochastic behaviour of Stocks (2021).pdf)
+[Download paper here](files/Brownian Motion and the Stochastic behaviour of Stocks (2021).pdf)
