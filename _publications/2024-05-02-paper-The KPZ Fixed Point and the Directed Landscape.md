@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "The KPZ Fixed Point and the Directed Landscape"
 collection: publications
 permalink: /publication/2024-05-02-paper-The KPZ Fixed Point and the Directed Landscape
 excerpt: 'The term “KPZ” stands for the initials of three physicists, namely Kardar, Parisi and Zhang, which, in 1986 conjectured the existence of universal scaling behaviours for many random growth processes in the plane.
