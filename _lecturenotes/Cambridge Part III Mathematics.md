@@ -8,13 +8,4 @@ date: 2023-03-10
 location: "Cambridge, United kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Download paper here](http://PantelisTass.github.io/files/Functional Analysis handrwitten.pdf)
