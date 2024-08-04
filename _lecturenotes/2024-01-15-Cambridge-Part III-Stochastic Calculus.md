@@ -8,4 +8,4 @@ date: 2024-01-15
 location: "Cambridge, United kingdom"
 ---
 
-[Handwritten lecture notes](http://PantelisTass.github.io/files/Stochastic Calculus handwritten notes.pdf)
+[Handwritten lecture notes](http://PantelisTass.github.io/files/Stochastic Calculus handrwitten notes.pdf)
