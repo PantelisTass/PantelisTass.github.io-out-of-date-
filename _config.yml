@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pantelis Tassopoulos / Personal Webpage"
 title_separator          : "-"
 name                     : &name "Pantelis Tassopoulos"
-description              : &description "I will be pursuing a PhD in Probability Theory, studying a notion of universality encompassing a large class of random growth processes in the plane, namely, KPZ universality, under the supervision of Dr Sourav Sarkar."
+description              : &description "This is my personal website, still at a working stage, where I aim to include my academic work/interests and beyond!"
 url                      : https://pantelistass.github.io
 baseurl                  : ""
 repository               : "PantelisTass/PantelisTass.github.io"
