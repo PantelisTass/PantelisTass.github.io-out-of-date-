@@ -190,15 +190,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _lecturenotes
-  - scope:
-      path: ""
-      type: Lecture Notes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _talks
   - scope:
       path: ""
