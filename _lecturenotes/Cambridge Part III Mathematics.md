@@ -8,4 +8,4 @@ date: 2023-03-10
 location: "Cambridge, United kingdom"
 ---
 
-[Download paper here](http://PantelisTass.github.io/files/Functional Analysis handrwitten notes.pdf)
+[Handwritten lecture notes](http://PantelisTass.github.io/files/Functional Analysis handrwitten notes.pdf)
